@@ -1,4 +1,8 @@
 # Finance Dashboard Web App
+<img width="1470" height="839" alt="Screenshot 2026-04-05 at 8 45 59 PM" src="https://github.com/user-attachments/assets/b8080320-5291-420f-a329-9e082ad85c24" />
+<img width="1470" height="842" alt="Screenshot 2026-04-05 at 8 46 18 PM" src="https://github.com/user-attachments/assets/168eeec6-0767-4d2b-b0bd-bf8db6b6f654" />
+
+
 
 A modern, responsive finance dashboard built with React, Tailwind CSS, shadcn-style UI components, Redux Toolkit, Recharts, and Lucide icons.
 
